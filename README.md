@@ -1,2 +1,5 @@
-# Telegram_bot_buttons
+# Telegram bot buttons
 Telegram bot uchun tugmalar va state lar
+"""
+print('Salom')
+"""
